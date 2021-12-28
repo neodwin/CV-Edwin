@@ -1,0 +1,53 @@
+h1
+{
+	text-align: center;
+	font-size: xx-large;
+	color: midnightblue;
+	text-shadow: cornflowerblue 6px 6px 6px;
+	box-shadow: darkblue 6px 6px 6px;
+}
+img
+{
+	box-shadow: darkgrey 7px 7px 7px;
+}
+span
+{
+	background-image: url(Image/barre.png);
+	display: flex;
+	justify-content: safe center;
+}
+#conteneur
+{
+	display: flex;
+	justify-content: center;
+	padding: 0 01px;
+	width: 90%;
+	box-sizing: border-box;
+	text-align: initial;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2
+{
+	text-align: center;
+	color: darkslategrey;
+	text-shadow: darkgrey 7px 7px 7px;
+}
+strong
+{
+	text-shadow: darkgrey 3px 3px 3px;
+}
+a:hover
+{
+	font-weight: bold;
+}
+body
+{
+	background-image: url(Image/fond.jpg);
+}
+ div 
+{
+	font-style: initial;
+}
+
+
